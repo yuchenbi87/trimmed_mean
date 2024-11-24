@@ -1,1 +1,1 @@
-module trimmedmean
+module github.com/yuchenbi87/trimmedmean
